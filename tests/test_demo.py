@@ -37,6 +37,7 @@ class TestProductPage(BaseClass):
 
     # TC 1. Assertion of correct page to be opened
     def test_check_url(self):
+        print("Swag Labs")  # demo for GIT
         assert "Swag Labs" in self.driver.title
 
     # TC 2. Log-in with Username (standard_user), password (secret_sauce)

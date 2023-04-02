@@ -21,6 +21,7 @@ class LoginData:
 
         # work with active sheet in the Excel document
         sheet = book.active
+        print(sheet)  # demo for git
 
         # extract all values without titles
         # in range(2, ...) - range starts from 2 because we don't need the title of the row or column but values only
