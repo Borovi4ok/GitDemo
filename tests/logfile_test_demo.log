@@ -1,0 +1,4 @@
+2023-04-02 12:56:34,210 :INFO :test_logIn :Logging in with different username and passwords
+2023-04-02 12:56:34,661 :INFO :test_min_number_of_items :Page displayed: 6 items
+2023-04-02 13:36:15,545 :INFO :test_logIn :Logging in with different username and passwords
+2023-04-02 13:36:16,009 :INFO :test_min_number_of_items :Page displayed: 6 items
